@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm **Vyshnavi Mulakalapalli**, a passionate **Software Developer** with a strong foundation in **full-stack development**, **cloud technologies**, and **AI-driven applications**. My journey in tech has been fueled by curiosity and a drive to solve real-world problems through innovative solutions.
 
-## 🔧 Technical Skills
+## 🔧 Tech Stack
 - **Languages:** Java, Python, C, C++, JavaScript  
 - **Web Development:** Django, Spring Boot, React, Bootstrap, Hugo  
 - **Databases:** PostgreSQL, MySQL, SQLite3  
