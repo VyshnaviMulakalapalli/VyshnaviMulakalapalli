@@ -15,8 +15,7 @@ I'm **Vyshnavi Mulakalapalli**, a passionate **Software Developer** with a stron
 - **Monitoring:** Prometheus, Grafana, CloudWatch
 - **IDEs/Editors:** PyCharm, VS Code, Jupyter Notebooks, IntelliJ
 - **Version Control & Collaboration:** Git, GitHub, GitLab, JIRA
-
-🌱 I’m actively improving my skills in **Java**, **Python**, and **RESTful APIs**, learning about **cloud technologies** and **CI/CD pipelines** to build scalable and reliable solutions.  
+ 
 👯 I’m looking for opportunities to enhance my skills, collaborate on **innovative projects**, and contribute to developing scalable systems.  
 📫 How to reach me: [vyshnavim489@gmail.com](mailto:vyshnavim489@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vyshnavi-m-772b2a349/)  
 😄 Pronouns: She/Her  
