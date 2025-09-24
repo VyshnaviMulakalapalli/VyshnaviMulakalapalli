@@ -17,7 +17,7 @@ I'm **Vyshnavi Mulakalapalli**, a passionate **Software Developer** with a stron
 - **Version Control & Collaboration:** Git, GitHub, GitLab, JIRA
  
 👯 I’m looking for opportunities to enhance my skills, collaborate on **innovative projects**, and contribute to developing scalable systems.  
-📫 How to reach me: [vyshnavim489@gmail.com](mailto:vyshnavim489@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vyshnavi-m-772b2a349/)  
+📫 How to reach me: [vyshnavi.mulakalapalli@outlook.com](mailto:vyshnavi.mulakalapalli@outlook.com)  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I’m a puzzle enthusiast and love exploring creative solutions to complex challenges!  
 
